@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/bg_1.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/large.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/medium.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/pallet.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/palletSelcted.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/pallet_selected.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/drawable/small.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/layout/dailog_brush_size.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/layout/progress_dialog.xml" value="0.5" />
+        <entry key="..\:/Users/Harshvardhan Singh/AndroidStudioProjects/KidsDrawingApp/app/src/main/res/xml/path.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3489771359807461" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
